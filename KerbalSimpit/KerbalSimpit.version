@@ -1,0 +1,16 @@
+{
+  "NAME": "Kerbal Simpit",
+  "URL": "https://bitbucket.org/pjhardy/kerbalsimpit/downloads/KerbalSimpit.version",
+  "DOWNLOAD": "https://bitbucket.org/pjhardy/kerbalsimpit/downloads/KerbalSimpit-59.zip",
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 2,
+    "PATCH": 8,
+    "BUILD": 59
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 4,
+    "PATCH": 4
+  }
+}
